@@ -1,2 +1,3 @@
-# miscellany
-A bug of cats
+# Miscellany
+
+A bug of cats.
